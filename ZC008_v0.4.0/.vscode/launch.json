@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "cwd": "D:/unniversity/EIDC/OLED/MSPM0G3507_1.96LCD_64pin_h/Debug",
+            "executable": "my_executable.out",
+            "name": "Debug with TI Embedded Debug for VS Code",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "configFiles": [
+                "./interface/xds110.cfg",
+                "./board/<config_filename>.cfg"
+            ],
+            "searchDir": [
+                "C:/Users/<username>/AppData/Local/Texas Instruments/ti-embedded-debug/openocd/<version>/share/openocd/scripts"
+            ],
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "none"
+        }
+    ]
+}

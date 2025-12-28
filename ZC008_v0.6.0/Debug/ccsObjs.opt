@@ -1,0 +1,11 @@
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_ticlang.o"
+"./main.o"
+"./BSP/adc.o"
+"./BSP/delay/bsp_delay.o"
+"./BSP/uart/bsp_uart.o"
+"./User/filter.o"
+-l"./device_linker.cmd"
+-l"C:/ti/mspm0_sdk_2_03_00_07/source/third_party/CMSIS/DSP/lib/ticlang/m0p/arm_cortexM0l_math.a"
+-ldevice.cmd.genlibs
+-llibc.a

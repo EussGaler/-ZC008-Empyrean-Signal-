@@ -1,0 +1,86 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ZC008_v0.1.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.1.0",
+                "resourceId": "/ZC008_v0.1.0"
+            }
+        },
+        {
+            "name": "01_LED",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "01_LED",
+                "resourceId": "/01_LED"
+            }
+        },
+        {
+            "name": "ZC008_v0.2.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.2.0",
+                "resourceId": "/ZC008_v0.2.0"
+            }
+        },
+        {
+            "name": "ZC008_v0.3.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.3.0",
+                "resourceId": "/ZC008_v0.3.0"
+            }
+        },
+        {
+            "name": "ZC008_v0.4.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.4.0",
+                "resourceId": "/ZC008_v0.4.0"
+            }
+        },
+        {
+            "name": "ZC008_v0.5.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.5.0",
+                "resourceId": "/ZC008_v0.5.0"
+            }
+        },
+        {
+            "name": "ZC008_v0.6.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.6.0",
+                "resourceId": "/ZC008_v0.6.0"
+            }
+        },
+        {
+            "name": "ZC008_v0.7.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.7.0",
+                "resourceId": "/ZC008_v0.7.0"
+            }
+        },
+        {
+            "name": "ZC008_v0.8.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC008_v0.8.0",
+                "resourceId": "/ZC008_v0.8.0"
+            }
+        }
+    ]
+}
